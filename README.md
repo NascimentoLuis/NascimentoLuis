@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luís Nascimento</h1>
-<h3 align="center">Hi, I'm Luís, a passionate cybersecurity enthusiast working towards building a solid career in the field. My goal is to land a cybersecurity job and continuously improve my skills. I have experience in IT support and technical assistance, with knowledge in networks, databases, Linux, and information security. I have also explored web development and programming and am familiar with SQL, Windows, and corporate systems. I am self-motivated, disciplined, and eager to learn, always keeping up with the latest trends in technology. In the long run, I aim for financial stability, living in a prime area of São Paulo, and traveling frequently. 🚀 Main Skills: ✔ Cybersecurity (Pentesting, Linux, Networks) ✔ Databases (SQL, Firebird, PostgreSQL) ✔ IT Support & Infrastructure ✔ Basic Web Development 🎯 Current Goal: Secure a cybersecurity internship and grow professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nascimentoluis&label=Profile%20views&color=0e75b6&style=flat" alt="nascimentoluis" /> </p>
 
